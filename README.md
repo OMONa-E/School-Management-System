@@ -60,6 +60,7 @@ cd school-management
 ### 2. Create and Activate Virtual Environment
 ```bash
 python -m venv .venv
+# python3 -m venv .venv
 source .venv/bin/activate  # For Linux/MacOS
 # . .venv/bin/activate    # For Linux/MacOS
 # .venv\Scripts\activate    # For Windows
